@@ -95,6 +95,7 @@ html{
 /*Home*/
 .home{
     display: flex;
+    background: block;
     background: url("images/banner1.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
