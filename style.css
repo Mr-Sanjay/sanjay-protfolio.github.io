@@ -96,8 +96,7 @@ html{
 .home{
     display: flex;
     background: block;
-    background: url("images/banner1.jpg") no-repeat center;
-    background: block;
+    /*background: url("images/banner1.jpg") no-repeat center;*/
     height: 100vh;
     color: #fff;
     min-height: 500px;
