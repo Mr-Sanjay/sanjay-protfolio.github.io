@@ -625,6 +625,14 @@ footer .linker i{
 }
 
 @media (max-width: 690px){
+   .home{
+        display: flex;
+        background: black;
+        height: 100vh;
+        color: #fff;
+        min-height: 500px;
+        font-family: 'ubuntu', sans-serif;
+    }
     .max-width{
         padding: 0 23px;
     }
