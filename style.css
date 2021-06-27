@@ -627,7 +627,7 @@ footer .linker i{
 @media (max-width: 690px){
    .home{
         display: flex;
-        background: black;
+        background: rgb(122, 106, 115);
         height: 100vh;
         color: #fff;
         min-height: 500px;
