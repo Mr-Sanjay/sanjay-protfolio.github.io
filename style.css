@@ -57,6 +57,7 @@ html{
 }
 .navbar .menu li a:hover{
     color: blue;
+    text-decoration: underline;
 }
 .navbar.sticky .menu li a:hover{
     color: blue;
