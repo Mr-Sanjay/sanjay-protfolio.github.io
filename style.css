@@ -88,6 +88,11 @@ html{
     pointer-events: none;
     transition: all 0.3s ease;
 }
+.scroll-up-btn:hover{
+    background: #fff;
+    border: 2px solid blue;
+    color: blue;
+}
 .scroll-up-btn.show{
     bottom: 30px;
     opacity: 1;
@@ -530,6 +535,11 @@ footer .linker i{
     color: white;
     background-color: blue;
     border-radius: 60px; 
+}
+footer .linker i:hover{
+    color: blue;
+    border: 2px solid blue;
+    background-color: white;
 }
 
 
