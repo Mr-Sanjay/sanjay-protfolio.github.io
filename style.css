@@ -349,8 +349,8 @@ section .title::after{
 .skills .skills-content .right .Web::before{
     width: 90%;
 }
-.skills .skills-content .right .python::before{
-    width: 70%;
+.skills .skills-content .right .java::before{
+    width: 90%;
 }
 .skills .skills-content .right .css::before{
     width: 60%;
@@ -358,8 +358,8 @@ section .title::after{
 .skills .skills-content .right .js::before{
     width: 70%;
 }
-.skills .skills-content .right .java::before{
-    width: 50%;
+.skills .skills-content .right .sql::before{
+    width: 95%;
 }
 /*teams section styling*/
 .teams .title::after{
