@@ -350,16 +350,16 @@ section .title::after{
     width: 90%;
 }
 .skills .skills-content .right .java::before{
-    width: 90%;
+    width: 85%;
 }
 .skills .skills-content .right .css::before{
     width: 60%;
 }
 .skills .skills-content .right .js::before{
-    width: 70%; 
+    width: 85%; 
 }
 .skills .skills-content .right .sql::before{
-    width: 95%;
+    width: 90%;
 }
 /*teams section styling*/
 .teams .title::after{
