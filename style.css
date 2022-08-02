@@ -347,7 +347,7 @@ section .title::after{
     background: blue;
 }
 .skills .skills-content .right .Web::before{
-    width: 70%;
+     width: 70%;
 }
 .skills .skills-content .right .java::before{
     width: 85%;
